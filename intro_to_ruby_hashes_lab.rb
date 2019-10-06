@@ -33,7 +33,7 @@ def monopoly_with_third_tier
 	      :four_pieces_owned => 200
 	    },
 	    :names => {
-	      :first_player => 'bob',
+	      :reading_railroad => {},
 	      :second_player => 'simon',
 	      :third_player => 'paul',
 	      :fourth_plaer => 'o\'ryan'
