@@ -34,9 +34,9 @@ def monopoly_with_third_tier
 	    },
 	    :names => {
 	      :reading_railroad => {},
-	      :second_player => 'simon',
-	      :third_player => 'paul',
-	      :fourth_plaer => 'o\'ryan'
+	      :reading_railroad => {},
+	      :reading_railroad => {},
+	      :reading_railroad => {}
 	    }
 	  }
   }
