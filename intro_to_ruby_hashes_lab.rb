@@ -28,12 +28,13 @@ def monopoly_with_third_tier
 	    :pieces => 4,
 	    :rent_in_dollars => {
 	      :names => 10,
-	      #:key_2 => 200,
-	      #:key_3 => 400, 
-	      #:key_4 => 600
+	      :key_2 => 200,
+	      :key_3 => 400, 
+	      :key_4 => 600
 	    }
-	   # :names => 4
-	}
+	    :names => 4
+	  }
+  }
 end
 
 def monopoly_with_fourth_tier
